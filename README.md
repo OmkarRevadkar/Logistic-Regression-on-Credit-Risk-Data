@@ -1,4 +1,4 @@
-Logistic Regression is a supervised learning model. It uses classification algorithm where our target variable is in classes or categories. Sampling is possible and we have performed it on Credit Risk Dataset. Finally, we have also removed outliers to the best possible extent.
+Logistic Regression is a supervised learning model. It uses classification algorithm where our target variable is in classes or categories. Sampling is possible and we have performed it on Credit Risk Dataset. 
 
 Following steps are involved:
 
